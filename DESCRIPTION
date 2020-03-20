@@ -1,0 +1,16 @@
+Package: kispaddins
+Type: Package
+Title: KİSP addin functions
+Version: 0.1.0.9000
+Author: Murat Taşdemir
+Maintainer: The package maintainer <murat.tasdemir@medeniyet.edu.tr>
+Description: After installation, the package provides Rstudio add-ins. These can be used by the dropdown "Addins" menuor can be assigned keyboard shortcuts.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    rstudioapi,
+    stringr,
+    stringi,
+    purrr
+RoxygenNote: 7.0.2

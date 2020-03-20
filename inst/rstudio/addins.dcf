@@ -1,0 +1,26 @@
+Name: LaTeX: Numbered Eq.
+Description: Inserts numbered LaTeX equation
+Binding: lateq_numbered
+Interactive: false
+
+Name: LaTeX: Diplayed Eq. \[ \]
+Description: Inserts unnumbered LaTeX equation
+Binding: lateq_display
+Interactive: false
+
+Name: LaTeX: Aligned Eq. \begin{align}...\end{align}
+Description: Inserts aligned LaTeX equation
+Binding: lateq_align
+Interactive: false
+
+Name: LaTeX: Inline Eq. $..$
+Description: Inserts inline LaTeX equation
+Binding: lateq_inline
+Interactive: false
+
+Name: Editor: Curly braces {...}
+Description: Inserts curly braces
+Binding: curly_braces
+Interactive: false
+
+
